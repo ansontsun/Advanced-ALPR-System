@@ -1,0 +1,6 @@
+# data.yaml
+train: dataset/training
+val: dataset/validation
+
+nc: 1  # number of classes
+names: ['license_plate']  # class names
