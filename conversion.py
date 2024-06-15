@@ -19,22 +19,30 @@ def convert_to_yolo_format(corners):
     return [x_center, y_center, width, height]
 
 # Path to your dataset
-dataset_path = 'E:/APS360/Advanced-ALPR-System/dataset/UFPR-ALPR/training'
+dataset_path = 'E:/APS360/Advanced-ALPR-System/dataset/UFPR-ALPR/validation'
 
 # Iterate through all label files
 for label_file in glob.glob(os.path.join(dataset_path, '**/*.txt'), recursive=True):
     with open(label_file, 'r') as file:
         lines = file.readlines()
+        #print(lines)
         
         # Find the line with corners
         for line in lines:
             if line.startswith('corners:'):
+                #print(f"Found corners line: {line}")  # Debugging: Print the line starting with 'corners:'
                 corners = line.strip().split(' ')[1:]
+                #print(f"Raw corners: {corners}")  # Debugging: Print the raw corners list
+                
                 corners = [list(map(int, corner.split(','))) for corner in corners]
+                #print(f"Processed corners: {corners}")  # Debugging: Print the processed corners list
+                
                 yolo_format = convert_to_yolo_format(corners)
+                #print(f"YOLO format: {yolo_format}")  # Debugging: Print the YOLO format coordinates
                 
                 # Create a new label file in YOLO format
                 new_label_file = label_file.replace('.txt', '_yolo.txt')
+                #print(f"Writing to new label file: {new_label_file}")
                 with open(new_label_file, 'w') as yolo_file:
                     yolo_file.write(f"0 {yolo_format[0]} {yolo_format[1]} {yolo_format[2]} {yolo_format[3]}\n")
                 break
