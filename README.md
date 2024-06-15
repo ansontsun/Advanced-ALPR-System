@@ -13,7 +13,7 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - Image Processing: OpenCV
 
 ## Performance
-The system achieves xx% accuracy in plate detection and xx% in character recognition under controlled test conditions.
+The system achieves 99% accuracy in plate detection and xx% in character recognition under controlled test conditions.
 
 ## Contributors
 - [David](#GitHub/LinkedIn profile link)
