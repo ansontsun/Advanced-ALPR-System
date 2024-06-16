@@ -1,6 +1,0 @@
-# data.yaml
-train: E:/APS360/Advanced-ALPR-System/data/UFPR-ALPR/training
-val: E:/APS360/Advanced-ALPR-System/data/UFPR-ALPR/validation
-
-nc: 1  # number of classes
-names: ['license_plate']  # class names

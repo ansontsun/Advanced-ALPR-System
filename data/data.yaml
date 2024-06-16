@@ -1,0 +1,7 @@
+# data.yaml
+train: data/UFPR-ALPR/training
+val: data/UFPR-ALPR/validation
+test: data/UFPR-ALPR/testing
+
+nc: 1  
+names: ['license_plate'] 
