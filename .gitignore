@@ -239,4 +239,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 #Locally I want to ignore the dataset (David's repo)
-/data/
+/data/UFPR-ALPR dataset/
