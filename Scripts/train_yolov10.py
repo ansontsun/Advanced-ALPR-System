@@ -1,17 +1,16 @@
 
 import torch
 from ultralytics import YOLOv10
-import os
 
-model_path = r'C:\Users\ADMIN\Desktop\Advanced-ALPR-System\models\yolov10\yolov10n.pt'
+# Initialize the model first
+model = YOLOv10()
 
+# Provide the complete path to the model weights file
+model_path = r'C:\Users\ADMIN\Desktop\Advanced-ALPR-System\yolov10n.pt'
 
-if not os.path.exists(model_path):
-    raise Exception(f"Model file not found at {model_path}")
+# Load the model weights
+model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
 
-model = YOLOv10() 
-model.load_state_dict(torch.load(model_path)) 
-
-# Setup and train the model
+# Now you can continue with training or validation
 model.train(data='data/data.yaml', epochs=50, batch=256, imgsz=640)
 model.val(data='data/data.yaml', batch=256)

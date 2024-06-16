@@ -240,3 +240,5 @@ fabric.properties
 
 #Locally I want to ignore the dataset (David's repo)
 /data/UFPR-ALPR dataset/
+
+/dataset/
