@@ -11,7 +11,7 @@ def convert_to_yolo_format(corners, img_width, img_height):
     return [x_center, y_center, width, height]
 
 def parse_annotations(base_path):
-    processed_annotations_path = os.path.join(base_path, '..', 'processed_annotations')
+    processed_annotations_path = os.path.join(base_path, '..', 'labels')
 
     if not os.path.exists(processed_annotations_path):
         os.makedirs(processed_annotations_path)
@@ -37,7 +37,7 @@ def parse_annotations(base_path):
         if not os.path.exists(final_save_path):
             os.makedirs(final_save_path)
 
-        save_path = os.path.join(final_save_path, os.path.basename(txt_file).replace('.txt', '_yolo.txt'))
+        save_path = os.path.join(final_save_path, os.path.basename(txt_file).replace('.txt', '.txt'))
         print(f"Saving to: {save_path}")  
         with open(save_path, 'w', encoding='utf-8') as f:
             f.write(f"0 {yolo_bbox[0]:.6f} {yolo_bbox[1]:.6f} {yolo_bbox[2]:.6f} {yolo_bbox[3]:.6f}\n")
