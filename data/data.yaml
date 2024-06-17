@@ -3,9 +3,5 @@ train: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\train
 val: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\validation
 test: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\testing
 
-# Example of what classes might be included
-nc: 1  # number of classes
-names: ['license_plate']
-
 nc: 1  
 names: ['license_plate'] 
