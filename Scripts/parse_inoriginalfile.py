@@ -26,11 +26,11 @@ def parse_annotations(base_path):
         yolo_bbox = convert_to_yolo_format(details['corners'], 1920, 1080)
 
         yolo_line = f"0 {yolo_bbox[0]:.6f} {yolo_bbox[1]:.6f} {yolo_bbox[2]:.6f} {yolo_bbox[3]:.6f}\n"
-        plate_line = f"{details['plate']}\n"
+        ##plate_line = f"{details['plate']}\n"
 
         with open(txt_file, 'w', encoding='utf-8') as file:
             file.write(yolo_line)
-            file.write(plate_line)
+            ##file.write(plate_line)
         print(f"File rewritten with YOLO format and plate info: {txt_file}")
 
 dataset_path = './data/UFPR-ALPR dataset'

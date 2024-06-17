@@ -9,5 +9,5 @@ model = YOLOv10.from_pretrained('jameslahm/yolov10n')
 
 #model.push_to_hub("your-hf-username/yolov10-finetuned")
 
-model.train(data='data/data.yaml', epochs=50, batch=256, imgsz=640)
+model.train(data='data/data.yaml', epochs=50, batch=64, imgsz=640)
 model.val(data='data/data.yaml', batch=256)

@@ -1,5 +1,5 @@
 # data.yaml
-train: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\train
+train: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\training
 val: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\validation
 test: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\testing
 
