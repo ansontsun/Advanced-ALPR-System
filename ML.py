@@ -1,4 +1,5 @@
 from ultralytics import YOLOv10
+# pip install supervision git+https://github.com/THU-MIG/yolov10.git
 
 model = YOLOv10()
 
