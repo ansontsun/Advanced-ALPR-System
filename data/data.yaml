@@ -1,7 +1,7 @@
 # data.yaml
-train: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\training
-val: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\validation
-test: C:\Users\ADMIN\Desktop\Advanced-ALPR-System\data\UFPR-ALPR dataset\testing
+train: E:\APS360\Advanced-ALPR-System\dataset\UFPR-ALPR\training
+val: E:\APS360\Advanced-ALPR-System\dataset\UFPR-ALPR\validation
+test: E:\APS360\Advanced-ALPR-System\dataset\UFPR-ALPR\testing
 
 nc: 1  
 names: ['license_plate'] 
