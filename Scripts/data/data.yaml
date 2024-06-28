@@ -1,0 +1,7 @@
+# data.yaml
+train: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts/data/UFPR-ALPR dataset/training
+val: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts/data/UFPR-ALPR dataset/validation
+test: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts/data/UFPR-ALPR dataset/testing
+
+nc: 1  
+names: ['license_plate'] 

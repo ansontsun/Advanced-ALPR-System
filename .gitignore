@@ -238,7 +238,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-#Locally I want to ignore the dataset (David's repo)
-/models/yolov5/
+# Locally I want to ignore the dataset (David's repo)
+/yolov5/
 /data/UFPR-ALPR dataset/
-/data/data.yaml/
+
+# Ignore dataset folder to maintain Git performance (Anson)
+/Scripts/data/UFPR-ALPR dataset
+
+/dataset/
