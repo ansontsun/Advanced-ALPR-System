@@ -1,11 +1,33 @@
-from sklearn import svm, datasets, metrics
+from sklearn import svm
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+import numpy as np
 
-cancer_dataset = datasets.load_breast_cancer()
-x_train, x_test, y_train, y_test = train_test_split(cancer_dataset.data, cancer_dataset.target, test_size=0.3, train_size=0.7, random_state=109)
+# Load your dataset
+features = np.load('features.npy')
+labels = np.load('labels.npy')
 
-model = svm.SVC(kernel='linear')
-model.fit(x_train, y_train)
-y_predict = model.predict(x_test)
+# Print the unique labels and their counts
+unique_labels, counts = np.unique(labels, return_counts=True)
+print(f"Unique labels: {unique_labels}")
+print(f"Counts: {counts}")
 
-print("Accuracy:", metrics.accuracy_score(y_test, y_predict))
+# Check if there is more than one unique class
+if len(unique_labels) <= 1:
+    raise ValueError(f"The number of classes has to be greater than one; got {len(unique_labels)} class")
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
+
+# Initialize the SVM classifier
+clf = svm.SVC(kernel='linear')
+
+# Train the classifier
+clf.fit(X_train, y_train)
+
+# Predict on the test set
+y_pred = clf.predict(X_test)
+
+# Evaluate the classifier
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Accuracy: {accuracy * 100:.2f}%')
