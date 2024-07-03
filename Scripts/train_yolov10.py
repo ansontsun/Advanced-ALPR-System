@@ -9,7 +9,7 @@ import torch
 #model.push_to_hub("your-hf-username/yolov10-finetuned")
 def main():
     model = YOLOv10.from_pretrained('jameslahm/yolov10n')
-    model.train(data='data/data.yaml', epochs=500, batch=16, imgsz=640)
+    model.train(data='data/data.yaml', epochs=200, batch=16, imgsz=640)
     model.val(data='data/data.yaml', batch=16)
 
 
