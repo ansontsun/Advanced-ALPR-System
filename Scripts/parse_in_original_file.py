@@ -33,5 +33,5 @@ def parse_annotations(base_path):
             ##file.write(plate_line)
         print(f"File rewritten with YOLO format and plate info: {txt_file}")
 
-dataset_path = r'C:\Users\mengbo\PycharmProjects\Advanced-ALPR-System\data\UFPR-ALPR dataset\validation'
+dataset_path = './data/UFPR-ALPR dataset'
 parse_annotations(dataset_path)
