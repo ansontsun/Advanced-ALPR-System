@@ -243,6 +243,8 @@ fabric.properties
 /data/UFPR-ALPR dataset/
 
 # Ignore dataset folder to maintain Git performance (Anson)
-/Scripts/data/UFPR-ALPR dataset
+Scripts/data/UFPR-ALPR dataset/
 
-/dataset/
+dataset/
+
+models/baseline/numpy/
