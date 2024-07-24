@@ -248,3 +248,5 @@ Scripts/data/UFPR-ALPR dataset/
 dataset/
 
 models/baseline/numpy/
+
+Scripts/augmentation/augmented_data
