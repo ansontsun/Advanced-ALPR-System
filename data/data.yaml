@@ -1,13 +1,7 @@
 # data.yaml
-<<<<<<< HEAD
 train: D:\Advanced-ALPR-System\data\UFPR-ALPR dataset\training
 val: D:\Advanced-ALPR-System\data\UFPR-ALPR dataset\validation
 test: D:\Advanced-ALPR-System\data\UFPR-ALPR dataset\testing
-=======
-train: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/data/UFPR-ALPR/training
-val: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/data/UFPR-ALPR/validation
-test: /Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/data/UFPR-ALPR/testing
->>>>>>> 8aabc8a (Added training data after running YOLOv10.)
 
 nc: 1  
 names: ['license_plate'] 
