@@ -250,3 +250,5 @@ dataset/
 models/baseline/numpy/
 
 Scripts/augmentation/augmented_data
+
+Scripts/augmentation/augmented_data_yolo
