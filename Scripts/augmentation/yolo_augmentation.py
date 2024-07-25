@@ -17,12 +17,15 @@ os.makedirs(output_dir, exist_ok=True)
 
 # Augmentation pipeline including contrast improvement and handling bounding boxes
 augmentation_pipeline = A.Compose([
+    A.HorizontalFlip(p=0.5),
     A.RandomBrightnessContrast(p=0.2),
     A.CLAHE(clip_limit=2.0, p=0.5),
-    A.GaussianBlur(p=0.2),
-    A.Rotate(limit=10, p=0.5),
-    A.RandomScale(scale_limit=0.2, p=0.3),
-    A.HorizontalFlip(p=0.5),  # Add horizontal flip with a 50% probability
+    A.OneOf([
+            A.GaussNoise(p=0.1),
+            A.GaussianBlur(p=0.1),
+    ], p=0.2),
+    A.Rotate(limit=20, p=0.5, border_mode=cv2.BORDER_CONSTANT),
+    A.RandomScale(scale_limit=0.2, p=0.3)
 ], bbox_params=A.BboxParams(format='yolo', label_fields=['labels']))
 
 # Function to augment images and process labels
