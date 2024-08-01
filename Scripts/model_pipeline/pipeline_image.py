@@ -3,18 +3,18 @@ import cv2
 import os
 import numpy as np
 import sys
-sys.path.append('D:/Advanced-ALPR-System/scripts')
+sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
 from sort.sort import *
-import util_pic
-from util_pic import get_car, read_license_plate, write_csv
+import util
+from util import get_car, read_license_plate, write_csv
 
 def main():
     mot_tracker = Sort()
     # Load models
-    car_model = YOLO("yolov10s.pt")
+    car_model = YOLO("models/yolov10s.pt")
     license_plate_model = YOLO('model_weights/best.pt')
     # Directory containing images
-    image_dir = 'data/UFPR-ALPR dataset/testing/'
+    image_dir = 'images/'
     image_files = [f for f in os.listdir(image_dir) if os.path.isfile(os.path.join(image_dir, f))]
 
     vehicles = [2, 3, 5, 7]  # vehicle types
@@ -64,7 +64,7 @@ def main():
                                                                         'bbox_score': score, 'text_score': license_plate_text_score}}
 
     # Write results
-    write_csv(results, 'outputs/picture_output.csv')
+    write_csv(results, 'outputs/final_output.csv')
 
 if __name__ == '__main__':
     import multiprocessing

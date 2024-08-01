@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 import sys
-sys.path.append('D:/Advanced-ALPR-System/scripts')
+sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
 from sort.sort import *
 import util
 from util import get_car, read_license_plate, write_csv
@@ -9,12 +9,12 @@ from util import get_car, read_license_plate, write_csv
 def main():
     mot_tracker = Sort()
     #load model
-    car_model = YOLO("yolov10s.pt")
+    car_model = YOLO("models/yolov10s.pt")
     license_plate_model = YOLO('model_weights/best.pt')
     #load video
-    cap = cv2.VideoCapture('./videos/test_best.mp4')
+    cap = cv2.VideoCapture('videos/test_0.mp4')
 
-    vehicles = [2, 3, 5, 7] #vehicle types
+    vehicles = [2, 3, 5, 7] #vehicle tyeps
     results = {}
 
     #read frames
@@ -64,7 +64,7 @@ def main():
                                                                     'bbox_score': score,'text_score': license_plate_text_score}}
 
     # write results
-    write_csv(results, './outputs/final_output.csv')
+    write_csv(results, 'outputs/final_output.csv')
 
 if __name__ == '__main__':
     import multiprocessing
