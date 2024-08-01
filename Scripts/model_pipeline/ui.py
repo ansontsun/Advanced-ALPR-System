@@ -22,5 +22,6 @@ if uploaded_file is not None:
             st.success('Processing complete!')
             st.write("CSV results have been written to:", output_csv_path)
             st.write("Video results have been written to:", output_video_path)
+            st.video(output_video_path)
             st.download_button('Download CSV', data=open(output_csv_path).read(), file_name='final_output.csv')
             st.download_button('Download Video', data=open(output_video_path).read(), file_name='final_output.mp4')
