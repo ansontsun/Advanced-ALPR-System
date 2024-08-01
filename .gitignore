@@ -245,6 +245,7 @@ fabric.properties
 /outputs/
 /videos/*.mp4
 /outputs/*.mp4
+/data/image/
 # Ignore dataset folder to maintain Git performance (Anson)
 Scripts/data/UFPR-ALPR dataset/
 

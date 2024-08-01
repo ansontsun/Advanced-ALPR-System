@@ -4,7 +4,6 @@ import cv2
 import numpy as np
 import pandas as pd
 
-
 def draw_border(img, top_left, bottom_right, color=(0, 255, 0), thickness=10, line_length_x=200, line_length_y=200):
     x1, y1 = top_left
     x2, y2 = bottom_right
