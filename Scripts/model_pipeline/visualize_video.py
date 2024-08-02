@@ -116,7 +116,7 @@ def produce_video(video_path, csv_path):
     return video_path
 
 # !!! change here to use
-results = pd.read_csv('D:\\Advanced-ALPR-System\\outputs\\1st_interpolated.csv')
+results = pd.read_csv('D:\\Advanced-ALPR-System\\outputs\\2st_interpolated.csv')
 
 # load video
 video_path = 'D:\\Advanced-ALPR-System\\videos\\test_best.mp4'

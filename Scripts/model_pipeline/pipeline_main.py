@@ -2,73 +2,67 @@ from ultralytics import YOLO
 import cv2
 import sys
 sys.path.append('D:/Advanced-ALPR-System/scripts')
-#sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
 
 from sort.sort import *
 import pipeline_helper
 from pipeline_helper import get_car, read_license_plate, write_csv
 
-def main():
+def main(video_path, output_path):
     mot_tracker = Sort()
     #load model
     car_model = YOLO("yolov10s.pt")
     license_plate_model = YOLO('model_weights/best.pt')
     #load video
-    cap = cv2.VideoCapture('D:\\Advanced-ALPR-System\\videos\\test_best.mp4')
+    cap = cv2.VideoCapture(video_path)
 
-    vehicles = [2, 3, 5, 7] #vehicle tyeps
+    vehicles = [2, 3, 5, 7] #vehicle types
     results = {}
+    frame_nmr = 0
 
-    #read frames
-    frame_nmr = -1
-    ret = True
-
-    while ret:
-        frame_nmr += 1
+    while True:
         ret, frame = cap.read()
-        if ret:
-            results[frame_nmr] = {}
-            # detect vehicles
-            pass
-            detections = car_model(frame)[0]
-            detections_ = []
-            for detection in detections.boxes.data.tolist():
-                x1, y1, x2, y2, score, class_id = detection
-                if int(class_id) in vehicles:
-                    detections_.append([x1, y1, x2, y2, score])
+        if not ret:
+            break
 
-            # track vehicles
-            track_ids = mot_tracker.update(np.asarray(detections_))
-            #detect license plates
-            license_plates = license_plate_model(frame)[0]
-            for license_plate in license_plates.boxes.data.tolist():
-                x1, y1, x2, y2, score, class_id = license_plate
+        results[frame_nmr] = {}
+        # detect vehicles
+        detections = car_model(frame)[0]
+        detections_ = []
+        vehicle_detections = [d for d in detections.boxes.data.tolist() if int(d[-1]) in vehicles]
+        # track vehicles
+        track_ids = mot_tracker.update(np.array(vehicle_detections))
+        # detect license plates
+        license_plates = license_plate_model(frame)[0]
+        for license_plate in license_plates.boxes.data.tolist():
+            x1, y1, x2, y2, score, class_id = license_plate
+            # assign license plate to car
+            xcar1, ycar1, xcar2, ycar2, car_id = get_car(license_plate, track_ids)
 
-                # assign license plate to car
-                xcar1, ycar1, xcar2, ycar2, car_id = get_car(license_plate, track_ids)
+            if car_id != -1:
+                # crop license plate
+                license_plate_crop = frame[int(y1):int(y2), int(x1):int(x2)]
+                # process license plate
+                license_plate_crop_gray = cv2.cvtColor(license_plate_crop, cv2.COLOR_BGR2GRAY)
+                _, license_plate_crop_thresh = cv2.threshold(license_plate_crop_gray, 64, 255, cv2.THRESH_BINARY_INV)
 
-                if car_id != -1:
+                # read license plate number through threshold image
+                license_plate_text, license_plate_text_score = read_license_plate(license_plate_crop_thresh)
 
-                    # crop license plate
-                    license_plate_crop = frame[int(y1):int(y2), int(x1): int(x2), :]
-
-                    # process license plate
-                    license_plate_crop_gray = cv2.cvtColor(license_plate_crop, cv2.COLOR_BGR2GRAY)
-                    _, license_plate_crop_thresh = cv2.threshold(license_plate_crop_gray, 64, 255, cv2.THRESH_BINARY_INV)
-
-                    # read license plate number through threshold image
-                    license_plate_text, license_plate_text_score = read_license_plate(license_plate_crop_thresh)
-
-                    # !!! make a dictionary
-                    if license_plate_text is not None:
-                        results[frame_nmr][car_id] = {'car': {'bbox': [xcar1, ycar1, xcar2, ycar2]},
-                                                    'license_plate': {'bbox': [x1, y1, x2, y2],'text': license_plate_text,
-                                                                    'bbox_score': score,'text_score': license_plate_text_score}}
+                # !!! make a dictionary
+                if license_plate_text is not None:
+                    results[frame_nmr][car_id] = {'car': {'bbox': [xcar1, ycar1, xcar2, ycar2]},
+                                                'license_plate': {'bbox': [x1, y1, x2, y2],'text': license_plate_text,
+                                                                'bbox_score': score,'text_score': license_plate_text_score}}
+        frame_nmr += 1
 
     # write results
-    #write_csv(results, './outputs/final_output.csv')
-    write_csv(results, 'D:\\Advanced-ALPR-System\\outputs\\final_output2.csv')
+    cap.release()
+    write_csv(results, output_path)
+    print("Processing complete.")
+
 if __name__ == '__main__':
     import multiprocessing
     multiprocessing.freeze_support()
-    main()
+    video_path = 'D:\\Advanced-ALPR-System\\videos\\test_best.mp4'
+    output_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output3.csv'
+    main(video_path, output_path)
