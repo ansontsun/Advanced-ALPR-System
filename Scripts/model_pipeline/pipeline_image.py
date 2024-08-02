@@ -7,8 +7,8 @@ from sort.sort import *
 import util
 from util import get_car, read_license_plate, write_csv
 
-sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
-
+sys.path.append('D:/Advanced-ALPR-System/scripts')
+#sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
 def process_image(frame, car_model, license_plate_model, mot_tracker, frame_nmr, results):
     results[frame_nmr] = {}
     

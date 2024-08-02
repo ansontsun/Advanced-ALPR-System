@@ -1,7 +1,9 @@
 from ultralytics import YOLO
 import cv2
 import sys
-sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
+sys.path.append('D:/Advanced-ALPR-System/scripts')
+#sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
+
 from sort.sort import *
 import util
 from util import get_car, read_license_plate, write_csv
