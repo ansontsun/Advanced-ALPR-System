@@ -116,17 +116,17 @@ def produce_video(video_path, csv_path):
     return video_path
 
 # !!! change here to use
-results = pd.read_csv('./outputs/1st_interpolated.csv')
+results = pd.read_csv('D:\\Advanced-ALPR-System\\outputs\\1st_interpolated.csv')
 
 # load video
-video_path = './videos/test_best.mp4'
+video_path = 'D:\\Advanced-ALPR-System\\videos\\test_best.mp4'
 cap = cv2.VideoCapture(video_path)
 
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # Specify the codec
 fps = cap.get(cv2.CAP_PROP_FPS)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-out = cv2.VideoWriter('./outputs/out.mp4', fourcc, fps, (width, height))
+out = cv2.VideoWriter('D:\Advanced-ALPR-System\outputs\out.mp4', fourcc, fps, (width, height))
 
 license_plate = {}
 for car_id in np.unique(results['car_id']):

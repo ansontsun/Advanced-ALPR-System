@@ -4,14 +4,14 @@ import sys
 #sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
 sys.path.append('D:/Advanced-ALPR-System/scripts')
 from sort.sort import *
-import util
-from util import get_car, read_license_plate, write_csv
+import pipeline_helper
+from pipeline_helper import get_car, read_license_plate, write_csv
 from visualize_video import produce_video
 
 def pipeline_ui(path):
     mot_tracker = Sort()
     #load model
-    car_model = YOLO("models/yolov10s.pt")
+    car_model = YOLO("yolov10s.pt")
     license_plate_model = YOLO('model_weights/best.pt')
     #load video
     cap = cv2.VideoCapture(path)
@@ -66,7 +66,7 @@ def pipeline_ui(path):
                                                                     'bbox_score': score,'text_score': license_plate_text_score}}
 
     # write results
-    csv_path = 'outputs/final_output.csv'
+    csv_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output.csv'
     write_csv(results, csv_path)
     video_path = produce_video(path, csv_path)
     return csv_path, video_path

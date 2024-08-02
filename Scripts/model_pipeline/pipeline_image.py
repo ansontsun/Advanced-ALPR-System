@@ -4,8 +4,8 @@ import os
 import numpy as np
 import sys
 from sort.sort import *
-import util
-from util import get_car, read_license_plate, write_csv
+import pipeline_helper_pic
+from pipeline_helper_pic import get_car, read_license_plate, write_csv
 
 sys.path.append('D:/Advanced-ALPR-System/scripts')
 #sys.path.append('/Users/ansonsun/Documents/aps360/project/Advanced-ALPR-System/Scripts')
