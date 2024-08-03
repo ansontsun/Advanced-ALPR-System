@@ -10,7 +10,7 @@ from pipeline_helper import get_car, read_license_plate, write_csv
 def main(video_path, output_path):
     mot_tracker = Sort()
     #load model
-    car_model = YOLO("yolov10s.pt")
+    car_model = YOLO("yolov10l.pt")
     license_plate_model = YOLO('model_weights/best.pt')
     #load video
     cap = cv2.VideoCapture(video_path)
@@ -64,5 +64,5 @@ if __name__ == '__main__':
     import multiprocessing
     multiprocessing.freeze_support()
     video_path = 'D:\\Advanced-ALPR-System\\videos\\test_best.mp4'
-    output_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output3.csv'
+    output_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output_0.734.csv'
     main(video_path, output_path)
