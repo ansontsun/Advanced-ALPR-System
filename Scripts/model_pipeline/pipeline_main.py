@@ -11,7 +11,7 @@ def main(video_path, output_path):
     mot_tracker = Sort()
     #load model
     car_model = YOLO("yolov10l.pt")
-    license_plate_model = YOLO('model_weights/best_v8s.pt')
+    license_plate_model = YOLO('model_weights/best_roboflow.pt')
     #load video
     cap = cv2.VideoCapture(video_path)
 
@@ -64,5 +64,5 @@ if __name__ == '__main__':
     import multiprocessing
     multiprocessing.freeze_support()
     video_path = 'D:\\Advanced-ALPR-System\\videos\\test_best.mp4'
-    output_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output_v8s.csv'
+    output_path = 'D:\\Advanced-ALPR-System\\outputs\\final_output_robo.csv'
     main(video_path, output_path)
