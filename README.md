@@ -29,7 +29,7 @@ examples of how to use the system in various scenarios, along with code snippets
 
 ## Acknowledgements
 
-Special thanks to the developers of the SORT algorithm for tracking support. SORT GitHub https://github.com/abewley/sort
+Special thanks to the developers of the SORT algorithm for tracking support. [SORT GitHub](https://github.com/abewley/sort)
 
 ## License
 
@@ -37,6 +37,6 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 ## Additional Resources
 
-Video Source for Testing https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
+[Video Source for Testing](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/)
 
 ```
