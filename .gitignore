@@ -241,10 +241,12 @@ fabric.properties
 # Locally I want to ignore the dataset (David's repo)
 /yolov5/
 /data/UFPR-ALPR dataset/
+/data/Roboflow dataset/
 /videos/
 /outputs/
 /videos/*.mp4
 /outputs/*.mp4
+/data/image/
 # Ignore dataset folder to maintain Git performance (Anson)
 Scripts/data/UFPR-ALPR dataset/
 
