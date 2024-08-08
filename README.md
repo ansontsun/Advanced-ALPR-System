@@ -16,12 +16,10 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 The system achieves 75% mAP50-95 in plate detection and 92% in character recognition under controlled test conditions.
 
 ## Contributors
-- [David](www.linkedin.com/in/david-huang-7a8aba296)
+- [David](www.linkedin.com/in/david-huang-7a8aba296) : Project Leader
 - [Edward](#GitHub/LinkedIn profile link)
 - [Anson](#GitHub/LinkedIn profile link)
 - [Addison](#GitHub/LinkedIn profile link)
-
-```
 
 ## Installation
 instructions on setting up and running the project locally.
@@ -40,3 +38,5 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 ## Additional Resources
 
 Video Source for Testing https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
+
+```
