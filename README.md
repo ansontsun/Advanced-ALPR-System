@@ -13,30 +13,30 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - Image Processing: OpenCV
 
 ## Performance
-The system achieves 99% accuracy in plate detection and xx% in character recognition under controlled test conditions.
+The system achieves 75% mAP50-95 in plate detection and 92% in character recognition under controlled test conditions.
 
 ## Contributors
-- [David](#GitHub/LinkedIn profile link)
+- [David](www.linkedin.com/in/david-huang-7a8aba296)
 - [Edward](#GitHub/LinkedIn profile link)
 - [Anson](#GitHub/LinkedIn profile link)
 - [Addison](#GitHub/LinkedIn profile link)
 
 ```
 
-
-Modified later
-(## Installation
+## Installation
 instructions on setting up and running the project locally.
 
 ## Usage
 examples of how to use the system in various scenarios, along with code snippets and output images.
 
-## Contributing
-details on how others can contribute to the project, including coding standards, pull request guidelines, etc.
+## Acknowledgements
+
+Special thanks to the developers of the SORT algorithm for tracking support. SORT GitHub https://github.com/abewley/sort
 
 ## License
-Specify the license under which the project is released, such as MIT, GPL, etc.)
 
-sort tracking: https://github.com/abewley/sort
-video source: https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
+This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.
 
+## Additional Resources
+
+Video Source for Testing https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
