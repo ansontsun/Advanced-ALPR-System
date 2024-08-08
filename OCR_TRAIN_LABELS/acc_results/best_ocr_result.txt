@@ -1,0 +1,3 @@
+Best OCR Result across the folder:
+Image: dataset/UFPR-ALPR/testing/track0114\track0114[15].png
+OCR Result: AS;5743 (Probability: 0.2827179957916038)

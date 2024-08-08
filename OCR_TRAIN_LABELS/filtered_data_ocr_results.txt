@@ -1,0 +1,3909 @@
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[01].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[02].png
+Ground Truth: MLS5511
+OCR Result: MLS55M
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[03].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[04].png
+Ground Truth: MLS5511
+OCR Result: MLS55M
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[05].png
+Ground Truth: MLS5511
+OCR Result: MLS5ST
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[06].png
+Ground Truth: MLS5511
+OCR Result: MLSS5
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[07].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[08].png
+Ground Truth: MLS5511
+OCR Result: MLS555
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[09].png
+Ground Truth: MLS5511
+OCR Result: MLS55J
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[10].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[11].png
+Ground Truth: MLS5511
+OCR Result: MLS5SJ
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[12].png
+Ground Truth: MLS5511
+OCR Result: MLS55U
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[13].png
+Ground Truth: MLS5511
+OCR Result: MLS55
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[14].png
+Ground Truth: MLS5511
+OCR Result: XLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[15].png
+Ground Truth: MLS5511
+OCR Result: XLS5SM
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[16].png
+Ground Truth: MLS5511
+OCR Result: MLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[17].png
+Ground Truth: MLS5511
+OCR Result: MLS55M
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[18].png
+Ground Truth: MLS5511
+OCR Result: MLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[19].png
+Ground Truth: MLS5511
+OCR Result: MLS55
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[20].png
+Ground Truth: MLS5511
+OCR Result: MLS5511
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[21].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[22].png
+Ground Truth: MLS5511
+OCR Result: KLS591A
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[23].png
+Ground Truth: MLS5511
+OCR Result: MLS551
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[24].png
+Ground Truth: MLS5511
+OCR Result: MLS5S11
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[25].png
+Ground Truth: MLS5511
+OCR Result: MLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[26].png
+Ground Truth: MLS5511
+OCR Result: MLS55
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[27].png
+Ground Truth: MLS5511
+OCR Result: MLS5S5
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[28].png
+Ground Truth: MLS5511
+OCR Result: MLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[29].png
+Ground Truth: MLS5511
+OCR Result: MLS5S1
+
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[30].png
+Ground Truth: MLS5511
+OCR Result: MLSS917
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[01].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[02].png
+Ground Truth: AQY6388
+OCR Result: AQY63B8
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[03].png
+Ground Truth: AQY6388
+OCR Result: AQY6388B
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[04].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[05].png
+Ground Truth: AQY6388
+OCR Result: AQY63884
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[06].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[07].png
+Ground Truth: AQY6388
+OCR Result: AQY638B
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[08].png
+Ground Truth: AQY6388
+OCR Result: AQY638
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[09].png
+Ground Truth: AQY6388
+OCR Result: AQY63887
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[10].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[11].png
+Ground Truth: AQY6388
+OCR Result: AQY63B8B
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[12].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[13].png
+Ground Truth: AQY6388
+OCR Result: AQY6388B
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[14].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[15].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[16].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[17].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[18].png
+Ground Truth: AQY6388
+OCR Result: AQY63883
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[19].png
+Ground Truth: AQY6388
+OCR Result: AQY63887
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[20].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[21].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[22].png
+Ground Truth: AQY6388
+OCR Result: AQY63B81
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[23].png
+Ground Truth: AQY6388
+OCR Result: AQY63887
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[24].png
+Ground Truth: AQY6388
+OCR Result: AQY63881
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[25].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[26].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[27].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[28].png
+Ground Truth: AQY6388
+OCR Result: AQY63888
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[29].png
+Ground Truth: AQY6388
+OCR Result: AQY63887
+
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[30].png
+Ground Truth: AQY6388
+OCR Result: AQY6388
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[01].png
+Ground Truth: AZZ6958
+OCR Result: A22695B
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[02].png
+Ground Truth: AZZ6958
+OCR Result: A2269587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[03].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[04].png
+Ground Truth: AZZ6958
+OCR Result: 42Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[05].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[06].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[07].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69584
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[08].png
+Ground Truth: AZZ6958
+OCR Result: A2269587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[09].png
+Ground Truth: AZZ6958
+OCR Result: A2269587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[10].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[11].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[12].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[13].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958X
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[14].png
+Ground Truth: AZZ6958
+OCR Result: A2269587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[15].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[16].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69584
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[17].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[18].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[19].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[20].png
+Ground Truth: AZZ6958
+OCR Result: AZZ69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[21].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[22].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[23].png
+Ground Truth: AZZ6958
+OCR Result: A2Z69587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[24].png
+Ground Truth: AZZ6958
+OCR Result: A2Z6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[25].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[26].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[27].png
+Ground Truth: AZZ6958
+OCR Result: AZZ695B
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[28].png
+Ground Truth: AZZ6958
+OCR Result: A2269587
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[29].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[30].png
+Ground Truth: AZZ6958
+OCR Result: AZZ6958
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[01].png
+Ground Truth: AUY8870
+OCR Result: AUY88700
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[02].png
+Ground Truth: AUY8870
+OCR Result: AUY88700
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[03].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[04].png
+Ground Truth: AUY8870
+OCR Result: AUY8870X
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[05].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[06].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[07].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[08].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[09].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[10].png
+Ground Truth: AUY8870
+OCR Result: AUY88701
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[11].png
+Ground Truth: AUY8870
+OCR Result: AUY88704
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[12].png
+Ground Truth: AUY8870
+OCR Result: AUY88701
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[13].png
+Ground Truth: AUY8870
+OCR Result: AUY8870N
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[14].png
+Ground Truth: AUY8870
+OCR Result: AUY88701
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[15].png
+Ground Truth: AUY8870
+OCR Result: AUY8870X
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[16].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[17].png
+Ground Truth: AUY8870
+OCR Result: AUY88701
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[18].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[19].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[20].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[21].png
+Ground Truth: AUY8870
+OCR Result: AUY9870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[22].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[23].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[24].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[25].png
+Ground Truth: AUY8870
+OCR Result: AUY88704
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[26].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[27].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[28].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[29].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[30].png
+Ground Truth: AUY8870
+OCR Result: AUY8870
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[01].png
+Ground Truth: AVI2214
+OCR Result: 221X
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[02].png
+Ground Truth: AVI2214
+OCR Result: XV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[03].png
+Ground Truth: AVI2214
+OCR Result: 22143
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[04].png
+Ground Truth: AVI2214
+OCR Result: ZV12217
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[05].png
+Ground Truth: AVI2214
+OCR Result: AV12212
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[06].png
+Ground Truth: AVI2214
+OCR Result: ZV12217
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[07].png
+Ground Truth: AVI2214
+OCR Result: AVT2217
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[08].png
+Ground Truth: AVI2214
+OCR Result: XV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[09].png
+Ground Truth: AVI2214
+OCR Result: AV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[10].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[11].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[12].png
+Ground Truth: AVI2214
+OCR Result: AV12214N
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[13].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[14].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[15].png
+Ground Truth: AVI2214
+OCR Result: XV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[16].png
+Ground Truth: AVI2214
+OCR Result: UVT22147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[17].png
+Ground Truth: AVI2214
+OCR Result: XV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[18].png
+Ground Truth: AVI2214
+OCR Result: AV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[19].png
+Ground Truth: AVI2214
+OCR Result: AV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[20].png
+Ground Truth: AVI2214
+OCR Result: AVT222147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[21].png
+Ground Truth: AVI2214
+OCR Result: AV122147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[22].png
+Ground Truth: AVI2214
+OCR Result: AV12217
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[23].png
+Ground Truth: AVI2214
+OCR Result: AVT22144
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[24].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[25].png
+Ground Truth: AVI2214
+OCR Result: AVT2214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[26].png
+Ground Truth: AVI2214
+OCR Result: AVT22147
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[27].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[28].png
+Ground Truth: AVI2214
+OCR Result: AV12214MQ
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[29].png
+Ground Truth: AVI2214
+OCR Result: AV12214
+
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[30].png
+Ground Truth: AVI2214
+OCR Result: AVI22147
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[01].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[02].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[03].png
+Ground Truth: AWX9307
+OCR Result: AWX93074
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[04].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[05].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[06].png
+Ground Truth: AWX9307
+OCR Result: AWX930Z
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[07].png
+Ground Truth: AWX9307
+OCR Result: AWX93071
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[08].png
+Ground Truth: AWX9307
+OCR Result: AWX93077
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[09].png
+Ground Truth: AWX9307
+OCR Result: AWX930
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[10].png
+Ground Truth: AWX9307
+OCR Result: AWX93077
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[11].png
+Ground Truth: AWX9307
+OCR Result: AWX93074
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[12].png
+Ground Truth: AWX9307
+OCR Result: AWX93077
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[13].png
+Ground Truth: AWX9307
+OCR Result: AWX9307N
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[14].png
+Ground Truth: AWX9307
+OCR Result: AWX93077
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[15].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[16].png
+Ground Truth: AWX9307
+OCR Result: AWX9307W
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[17].png
+Ground Truth: AWX9307
+OCR Result: AWX93071
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[18].png
+Ground Truth: AWX9307
+OCR Result: AWX93071W
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[19].png
+Ground Truth: AWX9307
+OCR Result: AWX9307N
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[20].png
+Ground Truth: AWX9307
+OCR Result: AWX93071
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[21].png
+Ground Truth: AWX9307
+OCR Result: AW
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[22].png
+Ground Truth: AWX9307
+OCR Result: AWX93077
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[23].png
+Ground Truth: AWX9307
+OCR Result: AWX
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[24].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[25].png
+Ground Truth: AWX9307
+OCR Result: AWX
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[26].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[27].png
+Ground Truth: AWX9307
+OCR Result: AWX93074
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[28].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[29].png
+Ground Truth: AWX9307
+OCR Result: AWX9307
+
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[30].png
+Ground Truth: AWX9307
+OCR Result: AWX93071
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[01].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[02].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[03].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[04].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[05].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[06].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[07].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[08].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[09].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[10].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[11].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[12].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[13].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[14].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[15].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[16].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[17].png
+Ground Truth: AYP7941
+OCR Result: P
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[18].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[19].png
+Ground Truth: AYP7941
+OCR Result: P17
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[20].png
+Ground Truth: AYP7941
+OCR Result: PT
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[21].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[22].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[23].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[24].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[25].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[26].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[27].png
+Ground Truth: AYP7941
+OCR Result: L
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[28].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[29].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0097\track0097[30].png
+Ground Truth: AYP7941
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[01].png
+Ground Truth: ASZ9457
+OCR Result: AS2M
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[02].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[03].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[04].png
+Ground Truth: ASZ9457
+OCR Result: ASZ
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[05].png
+Ground Truth: ASZ9457
+OCR Result: AS2
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[06].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[07].png
+Ground Truth: ASZ9457
+OCR Result: 9467
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[08].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[09].png
+Ground Truth: ASZ9457
+OCR Result: ASZ
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[10].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[11].png
+Ground Truth: ASZ9457
+OCR Result: ASZM
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[12].png
+Ground Truth: ASZ9457
+OCR Result: ASZ
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[13].png
+Ground Truth: ASZ9457
+OCR Result: AS29457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[14].png
+Ground Truth: ASZ9457
+OCR Result: ASZ
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[15].png
+Ground Truth: ASZ9457
+OCR Result: AS2
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[16].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[17].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[18].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[19].png
+Ground Truth: ASZ9457
+OCR Result: 429457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[20].png
+Ground Truth: ASZ9457
+OCR Result: AS29457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[21].png
+Ground Truth: ASZ9457
+OCR Result: A629457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[22].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[23].png
+Ground Truth: ASZ9457
+OCR Result: AS9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[24].png
+Ground Truth: ASZ9457
+OCR Result: AS
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[25].png
+Ground Truth: ASZ9457
+OCR Result: AS2
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[26].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[27].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[28].png
+Ground Truth: ASZ9457
+OCR Result: AS29457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[29].png
+Ground Truth: ASZ9457
+OCR Result: 9457
+
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[30].png
+Ground Truth: ASZ9457
+OCR Result: AS29457
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[01].png
+Ground Truth: APE4685
+OCR Result: APE46
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[02].png
+Ground Truth: APE4685
+OCR Result: APE
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[03].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[04].png
+Ground Truth: APE4685
+OCR Result: APE46B55
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[05].png
+Ground Truth: APE4685
+OCR Result: APE46851
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[06].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[07].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[08].png
+Ground Truth: APE4685
+OCR Result: APEZ
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[09].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[10].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[11].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[12].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[13].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[14].png
+Ground Truth: APE4685
+OCR Result: APE46855
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[15].png
+Ground Truth: APE4685
+OCR Result: APE4685N
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[16].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[17].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[18].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[19].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[20].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[21].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[22].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[23].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[24].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[25].png
+Ground Truth: APE4685
+OCR Result: APE46B51
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[26].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[27].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[28].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[29].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[30].png
+Ground Truth: APE4685
+OCR Result: APE4685
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[01].png
+Ground Truth: ISK7086
+OCR Result: 1SK70867
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[02].png
+Ground Truth: ISK7086
+OCR Result: 1SK70867
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[03].png
+Ground Truth: ISK7086
+OCR Result: 7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[04].png
+Ground Truth: ISK7086
+OCR Result: 1SK7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[05].png
+Ground Truth: ISK7086
+OCR Result: 1SK7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[06].png
+Ground Truth: ISK7086
+OCR Result: 1SK7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[07].png
+Ground Truth: ISK7086
+OCR Result: 15K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[08].png
+Ground Truth: ISK7086
+OCR Result: 15K70864
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[09].png
+Ground Truth: ISK7086
+OCR Result: 15K70864
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[10].png
+Ground Truth: ISK7086
+OCR Result: 15K708684
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[11].png
+Ground Truth: ISK7086
+OCR Result: 7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[12].png
+Ground Truth: ISK7086
+OCR Result: 19K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[13].png
+Ground Truth: ISK7086
+OCR Result: 15K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[14].png
+Ground Truth: ISK7086
+OCR Result: 16K708G7
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[15].png
+Ground Truth: ISK7086
+OCR Result: 1SK70864
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[16].png
+Ground Truth: ISK7086
+OCR Result: 1SK70B6
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[17].png
+Ground Truth: ISK7086
+OCR Result: 15K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[18].png
+Ground Truth: ISK7086
+OCR Result: 15K7D86
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[19].png
+Ground Truth: ISK7086
+OCR Result: JSK7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[20].png
+Ground Truth: ISK7086
+OCR Result: 1567486
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[21].png
+Ground Truth: ISK7086
+OCR Result: 15K70867
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[22].png
+Ground Truth: ISK7086
+OCR Result: 15K70867
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[23].png
+Ground Truth: ISK7086
+OCR Result: 19K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[24].png
+Ground Truth: ISK7086
+OCR Result: 1SK708647
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[25].png
+Ground Truth: ISK7086
+OCR Result: JSK70867
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[26].png
+Ground Truth: ISK7086
+OCR Result: 1SK7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[27].png
+Ground Truth: ISK7086
+OCR Result: 15K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[28].png
+Ground Truth: ISK7086
+OCR Result: 16K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[29].png
+Ground Truth: ISK7086
+OCR Result: 16K7086
+
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[30].png
+Ground Truth: ISK7086
+OCR Result: PERE
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[01].png
+Ground Truth: AMR2189
+OCR Result: AMR218
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[02].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[03].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[04].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[05].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[06].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[07].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[08].png
+Ground Truth: AMR2189
+OCR Result: AMR
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[09].png
+Ground Truth: AMR2189
+OCR Result: AMR
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[10].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[11].png
+Ground Truth: AMR2189
+OCR Result: AR21889
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[12].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[13].png
+Ground Truth: AMR2189
+OCR Result: 2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[14].png
+Ground Truth: AMR2189
+OCR Result: AMR
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[15].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[16].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[17].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[18].png
+Ground Truth: AMR2189
+OCR Result: AR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[19].png
+Ground Truth: AMR2189
+OCR Result: AMR218P
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[20].png
+Ground Truth: AMR2189
+OCR Result: AMR218
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[21].png
+Ground Truth: AMR2189
+OCR Result: AM
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[22].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[23].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[24].png
+Ground Truth: AMR2189
+OCR Result: AMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[25].png
+Ground Truth: AMR2189
+OCR Result: AR2103
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[26].png
+Ground Truth: AMR2189
+OCR Result: AMR2182
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[27].png
+Ground Truth: AMR2189
+OCR Result: AM
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[28].png
+Ground Truth: AMR2189
+OCR Result: 2187
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[29].png
+Ground Truth: AMR2189
+OCR Result: AR210P
+
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[30].png
+Ground Truth: AMR2189
+OCR Result: UMR2189
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[01].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[02].png
+Ground Truth: AHB1989
+OCR Result: AHB497897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[03].png
+Ground Truth: AHB1989
+OCR Result: AH8119897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[04].png
+Ground Truth: AHB1989
+OCR Result: AH849894
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[05].png
+Ground Truth: AHB1989
+OCR Result: AH01989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[06].png
+Ground Truth: AHB1989
+OCR Result: AHB4989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[07].png
+Ground Truth: AHB1989
+OCR Result: AHB49897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[08].png
+Ground Truth: AHB1989
+OCR Result: AHB49897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[09].png
+Ground Truth: AHB1989
+OCR Result: AMB19897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[10].png
+Ground Truth: AHB1989
+OCR Result: AH84989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[11].png
+Ground Truth: AHB1989
+OCR Result: AH84989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[12].png
+Ground Truth: AHB1989
+OCR Result: AMB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[13].png
+Ground Truth: AHB1989
+OCR Result: AM81989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[14].png
+Ground Truth: AHB1989
+OCR Result: AH81989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[15].png
+Ground Truth: AHB1989
+OCR Result: AMB19897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[16].png
+Ground Truth: AHB1989
+OCR Result: AMB19897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[17].png
+Ground Truth: AHB1989
+OCR Result: AH819897
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[18].png
+Ground Truth: AHB1989
+OCR Result: AMB4989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[19].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[20].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[21].png
+Ground Truth: AHB1989
+OCR Result: AH89894
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[22].png
+Ground Truth: AHB1989
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[23].png
+Ground Truth: AHB1989
+OCR Result: AMB4989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[24].png
+Ground Truth: AHB1989
+OCR Result: A81989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[25].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[26].png
+Ground Truth: AHB1989
+OCR Result: AHB4989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[27].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[28].png
+Ground Truth: AHB1989
+OCR Result: AH81989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[29].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[30].png
+Ground Truth: AHB1989
+OCR Result: AHB1989
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[01].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[02].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[03].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[04].png
+Ground Truth: BCS4525
+OCR Result: BCS4
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[05].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[06].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[07].png
+Ground Truth: BCS4525
+OCR Result: 4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[08].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[09].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[10].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[11].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[12].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[13].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[14].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[15].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[16].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[17].png
+Ground Truth: BCS4525
+OCR Result: BCSS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[18].png
+Ground Truth: BCS4525
+OCR Result: BCSS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[19].png
+Ground Truth: BCS4525
+OCR Result: BCSS4
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[20].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[21].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[22].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[23].png
+Ground Truth: BCS4525
+OCR Result: BES4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[24].png
+Ground Truth: BCS4525
+OCR Result: BES4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[25].png
+Ground Truth: BCS4525
+OCR Result: BCS4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[26].png
+Ground Truth: BCS4525
+OCR Result: BES4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[27].png
+Ground Truth: BCS4525
+OCR Result: BES4525
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[28].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[29].png
+Ground Truth: BCS4525
+OCR Result: BCS
+
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[30].png
+Ground Truth: BCS4525
+OCR Result: BCSS
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[01].png
+Ground Truth: APL0100
+OCR Result: APL01D0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[02].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[03].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[04].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[05].png
+Ground Truth: APL0100
+OCR Result: APL01D0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[06].png
+Ground Truth: APL0100
+OCR Result: 0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[07].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[08].png
+Ground Truth: APL0100
+OCR Result: Q1004
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[09].png
+Ground Truth: APL0100
+OCR Result: APLQ100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[10].png
+Ground Truth: APL0100
+OCR Result: APL01001
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[11].png
+Ground Truth: APL0100
+OCR Result: 01001
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[12].png
+Ground Truth: APL0100
+OCR Result: APLQ1DQ
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[13].png
+Ground Truth: APL0100
+OCR Result: APL010QX
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[14].png
+Ground Truth: APL0100
+OCR Result: APL01007
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[15].png
+Ground Truth: APL0100
+OCR Result: APLQ10Q
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[16].png
+Ground Truth: APL0100
+OCR Result: APLQ1001
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[17].png
+Ground Truth: APL0100
+OCR Result: APL01D01
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[18].png
+Ground Truth: APL0100
+OCR Result: APL0100W
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[19].png
+Ground Truth: APL0100
+OCR Result: APL01D0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[20].png
+Ground Truth: APL0100
+OCR Result: APLQ100N
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[21].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[22].png
+Ground Truth: APL0100
+OCR Result: APLQ1D0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[23].png
+Ground Truth: APL0100
+OCR Result: APLQ1D0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[24].png
+Ground Truth: APL0100
+OCR Result: APLQ100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[25].png
+Ground Truth: APL0100
+OCR Result: APL01001N
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[26].png
+Ground Truth: APL0100
+OCR Result: APL01Q0
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[27].png
+Ground Truth: APL0100
+OCR Result: APLQ100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[28].png
+Ground Truth: APL0100
+OCR Result: APL0100
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[29].png
+Ground Truth: APL0100
+OCR Result: APL01Q0X
+
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[30].png
+Ground Truth: APL0100
+OCR Result: APL0100X
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[01].png
+Ground Truth: AEK0977
+OCR Result: 097K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[02].png
+Ground Truth: AEK0977
+OCR Result: AE
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[03].png
+Ground Truth: AEK0977
+OCR Result: 05
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[04].png
+Ground Truth: AEK0977
+OCR Result: 09KT
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[05].png
+Ground Truth: AEK0977
+OCR Result: V
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[06].png
+Ground Truth: AEK0977
+OCR Result: 85
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[07].png
+Ground Truth: AEK0977
+OCR Result: 0F
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[08].png
+Ground Truth: AEK0977
+OCR Result: 05K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[09].png
+Ground Truth: AEK0977
+OCR Result: 0955
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[10].png
+Ground Truth: AEK0977
+OCR Result: 0955
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[11].png
+Ground Truth: AEK0977
+OCR Result: 89K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[12].png
+Ground Truth: AEK0977
+OCR Result: 49K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[13].png
+Ground Truth: AEK0977
+OCR Result: Q9
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[14].png
+Ground Truth: AEK0977
+OCR Result: 49K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[15].png
+Ground Truth: AEK0977
+OCR Result: 057
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[16].png
+Ground Truth: AEK0977
+OCR Result: 4
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[17].png
+Ground Truth: AEK0977
+OCR Result: Q5
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[18].png
+Ground Truth: AEK0977
+OCR Result: Q9K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[19].png
+Ground Truth: AEK0977
+OCR Result: 9K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[20].png
+Ground Truth: AEK0977
+OCR Result: 09
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[21].png
+Ground Truth: AEK0977
+OCR Result: 0
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[22].png
+Ground Truth: AEK0977
+OCR Result: Q97
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[23].png
+Ground Truth: AEK0977
+OCR Result: Q97
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[24].png
+Ground Truth: AEK0977
+OCR Result: 0K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[25].png
+Ground Truth: AEK0977
+OCR Result: Q9
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[26].png
+Ground Truth: AEK0977
+OCR Result: 09K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[27].png
+Ground Truth: AEK0977
+OCR Result: QK
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[28].png
+Ground Truth: AEK0977
+OCR Result: QK
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[29].png
+Ground Truth: AEK0977
+OCR Result: 09K
+
+Image: dataset/UFPR-ALPR/testing\track0105\track0105[30].png
+Ground Truth: AEK0977
+OCR Result: 0K
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[01].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[02].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[03].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[04].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[05].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[06].png
+Ground Truth: ABN8528
+OCR Result: F251
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[07].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[08].png
+Ground Truth: ABN8528
+OCR Result: ABN85283
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[09].png
+Ground Truth: ABN8528
+OCR Result: ABN85281
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[10].png
+Ground Truth: ABN8528
+OCR Result: ABN85289
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[11].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[12].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[13].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[14].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[15].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[16].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[17].png
+Ground Truth: ABN8528
+OCR Result: ABN85283
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[18].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[19].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[20].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[21].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[22].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[23].png
+Ground Truth: ABN8528
+OCR Result: ABN85283
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[24].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[25].png
+Ground Truth: ABN8528
+OCR Result: ABN85288
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[26].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[27].png
+Ground Truth: ABN8528
+OCR Result: 51L
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[28].png
+Ground Truth: ABN8528
+OCR Result: F264
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[29].png
+Ground Truth: ABN8528
+OCR Result: F245JLZ
+
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[30].png
+Ground Truth: ABN8528
+OCR Result: ABN8528
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[01].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[02].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[03].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[04].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[05].png
+Ground Truth: MJO0862
+OCR Result: MJD
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[06].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[07].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[08].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[09].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[10].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[11].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[12].png
+Ground Truth: MJO0862
+OCR Result: MJDDB621
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[13].png
+Ground Truth: MJO0862
+OCR Result: MJD08621
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[14].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[15].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[16].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[17].png
+Ground Truth: MJO0862
+OCR Result: 0862
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[18].png
+Ground Truth: MJO0862
+OCR Result: MJD
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[19].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[20].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[21].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[22].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[23].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[24].png
+Ground Truth: MJO0862
+OCR Result: RANDON
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[25].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[26].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[27].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[28].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[29].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[30].png
+Ground Truth: MJO0862
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[01].png
+Ground Truth: ARY9308
+OCR Result: ARY93081
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[02].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[03].png
+Ground Truth: ARY9308
+OCR Result: ARY93087
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[04].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[05].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[06].png
+Ground Truth: ARY9308
+OCR Result: ARY930814
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[07].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[08].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[09].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[10].png
+Ground Truth: ARY9308
+OCR Result: ARY9308T
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[11].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[12].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[13].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[14].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[15].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[16].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[17].png
+Ground Truth: ARY9308
+OCR Result: ARY93081
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[18].png
+Ground Truth: ARY9308
+OCR Result: ARY9308A
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[19].png
+Ground Truth: ARY9308
+OCR Result: ARY9308J
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[20].png
+Ground Truth: ARY9308
+OCR Result: ARY9308X
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[21].png
+Ground Truth: ARY9308
+OCR Result: ARY9308J
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[22].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[23].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[24].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[25].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[26].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[27].png
+Ground Truth: ARY9308
+OCR Result: ARY93084
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[28].png
+Ground Truth: ARY9308
+OCR Result: ARY9308X
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[29].png
+Ground Truth: ARY9308
+OCR Result: ARY9308X
+
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[30].png
+Ground Truth: ARY9308
+OCR Result: ARY9308X
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[01].png
+Ground Truth: AWZ7648
+OCR Result: AQZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[02].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[03].png
+Ground Truth: AWZ7648
+OCR Result: AMZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[04].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[05].png
+Ground Truth: AWZ7648
+OCR Result: AW2
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[06].png
+Ground Truth: AWZ7648
+OCR Result: AWZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[07].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[08].png
+Ground Truth: AWZ7648
+OCR Result: AWZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[09].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[10].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[11].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[12].png
+Ground Truth: AWZ7648
+OCR Result: AW27
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[13].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[14].png
+Ground Truth: AWZ7648
+OCR Result: AW27
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[15].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[16].png
+Ground Truth: AWZ7648
+OCR Result: AWZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[17].png
+Ground Truth: AWZ7648
+OCR Result: AWZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[18].png
+Ground Truth: AWZ7648
+OCR Result: A4Z7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[19].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[20].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[21].png
+Ground Truth: AWZ7648
+OCR Result: AWZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[22].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[23].png
+Ground Truth: AWZ7648
+OCR Result: AWMZ7
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[24].png
+Ground Truth: AWZ7648
+OCR Result: AM22Z
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[25].png
+Ground Truth: AWZ7648
+OCR Result: 164
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[26].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[27].png
+Ground Truth: AWZ7648
+OCR Result: AW27
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[28].png
+Ground Truth: AWZ7648
+OCR Result: AWZ
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[29].png
+Ground Truth: AWZ7648
+OCR Result: A42
+
+Image: dataset/UFPR-ALPR/testing\track0109\track0109[30].png
+Ground Truth: AWZ7648
+OCR Result: AWZZ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[01].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[02].png
+Ground Truth: BBO8514
+OCR Result: BBQX
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[03].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[04].png
+Ground Truth: BBO8514
+OCR Result: BB0Q
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[05].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[06].png
+Ground Truth: BBO8514
+OCR Result: BB
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[07].png
+Ground Truth: BBO8514
+OCR Result: BB0X
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[08].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[09].png
+Ground Truth: BBO8514
+OCR Result: BBCQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[10].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[11].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[12].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[13].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[14].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[15].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[16].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[17].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[18].png
+Ground Truth: BBO8514
+OCR Result: BBQX
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[19].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[20].png
+Ground Truth: BBO8514
+OCR Result: BBQ
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[21].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[22].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[23].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[24].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[25].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[26].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[27].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[28].png
+Ground Truth: BBO8514
+OCR Result: BBQ1
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[29].png
+Ground Truth: BBO8514
+OCR Result: BM
+
+Image: dataset/UFPR-ALPR/testing\track0110\track0110[30].png
+Ground Truth: BBO8514
+OCR Result: BBQ4
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[01].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q587
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[02].png
+Ground Truth: AIQ1056
+OCR Result: ALQ21Q58
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[03].png
+Ground Truth: AIQ1056
+OCR Result: A1Q20Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[04].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q58
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[05].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q58
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[06].png
+Ground Truth: AIQ1056
+OCR Result: AZ081Q588N
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[07].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q581N
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[08].png
+Ground Truth: AIQ1056
+OCR Result: A1Q205681
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[09].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q5681
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[10].png
+Ground Truth: AIQ1056
+OCR Result: ALQ7Q561
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[11].png
+Ground Truth: AIQ1056
+OCR Result: A1021Q588
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[12].png
+Ground Truth: AIQ1056
+OCR Result: A1Q41Q5681
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[13].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[14].png
+Ground Truth: AIQ1056
+OCR Result: A1Q81Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[15].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1Q581
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[16].png
+Ground Truth: AIQ1056
+OCR Result: ALQ41Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[17].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1056
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[18].png
+Ground Truth: AIQ1056
+OCR Result: ATQ1Q5
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[19].png
+Ground Truth: AIQ1056
+OCR Result: AZQF1Q563
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[20].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[21].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1056
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[22].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[23].png
+Ground Truth: AIQ1056
+OCR Result: A1QP1056
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[24].png
+Ground Truth: AIQ1056
+OCR Result: ATQR1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[25].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1056
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[26].png
+Ground Truth: AIQ1056
+OCR Result: A1Q21Q561
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[27].png
+Ground Truth: AIQ1056
+OCR Result: ALQ21Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[28].png
+Ground Truth: AIQ1056
+OCR Result: ALQ1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[29].png
+Ground Truth: AIQ1056
+OCR Result: A1Q1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[30].png
+Ground Truth: AIQ1056
+OCR Result: ATQ1Q56
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[01].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[02].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[03].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[04].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[05].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[06].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[07].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[08].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[09].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[10].png
+Ground Truth: APD4389
+OCR Result: APD43891
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[11].png
+Ground Truth: APD4389
+OCR Result: APD43891
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[12].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[13].png
+Ground Truth: APD4389
+OCR Result: APD436
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[14].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[15].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[16].png
+Ground Truth: APD4389
+OCR Result: APD43894
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[17].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[18].png
+Ground Truth: APD4389
+OCR Result: APD43894
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[19].png
+Ground Truth: APD4389
+OCR Result: APD43891
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[20].png
+Ground Truth: APD4389
+OCR Result: APD438994
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[21].png
+Ground Truth: APD4389
+OCR Result: APD43894
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[22].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[23].png
+Ground Truth: APD4389
+OCR Result: APD43891
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[24].png
+Ground Truth: APD4389
+OCR Result: APD43891
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[25].png
+Ground Truth: APD4389
+OCR Result: APD434
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[26].png
+Ground Truth: APD4389
+OCR Result: PD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[27].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[28].png
+Ground Truth: APD4389
+OCR Result: APD4389
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[29].png
+Ground Truth: APD4389
+OCR Result: APD43
+
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[30].png
+Ground Truth: APD4389
+OCR Result: AP0438
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[01].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[02].png
+Ground Truth: PWC3858
+OCR Result: PWC385B
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[03].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[04].png
+Ground Truth: PWC3858
+OCR Result: PWC385899
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[05].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[06].png
+Ground Truth: PWC3858
+OCR Result: PWC385
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[07].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[08].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[09].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[10].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[11].png
+Ground Truth: PWC3858
+OCR Result: PWC38583
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[12].png
+Ground Truth: PWC3858
+OCR Result: PWC385BB
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[13].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[14].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[15].png
+Ground Truth: PWC3858
+OCR Result: PWC38587
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[16].png
+Ground Truth: PWC3858
+OCR Result: PWC38588
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[17].png
+Ground Truth: PWC3858
+OCR Result: PWC38588
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[18].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[19].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[20].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[21].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[22].png
+Ground Truth: PWC3858
+OCR Result: PWC38581
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[23].png
+Ground Truth: PWC3858
+OCR Result: PWC3858X
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[24].png
+Ground Truth: PWC3858
+OCR Result: PWC38581
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[25].png
+Ground Truth: PWC3858
+OCR Result: PWC3858
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[26].png
+Ground Truth: PWC3858
+OCR Result: PWC38584
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[27].png
+Ground Truth: PWC3858
+OCR Result: PWC3858B
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[28].png
+Ground Truth: PWC3858
+OCR Result: PWC3858T
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[29].png
+Ground Truth: PWC3858
+OCR Result: PWC3858X
+
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[30].png
+Ground Truth: PWC3858
+OCR Result: PWC38584
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[01].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[02].png
+Ground Truth: ASF5742
+OCR Result: ASF57421
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[03].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[04].png
+Ground Truth: ASF5742
+OCR Result: 42
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[05].png
+Ground Truth: ASF5742
+OCR Result: ASF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[06].png
+Ground Truth: ASF5742
+OCR Result: RF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[07].png
+Ground Truth: ASF5742
+OCR Result: 4SF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[08].png
+Ground Truth: ASF5742
+OCR Result: ASF57424
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[09].png
+Ground Truth: ASF5742
+OCR Result: ASF
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[10].png
+Ground Truth: ASF5742
+OCR Result: ASF
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[11].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[12].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[13].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[14].png
+Ground Truth: ASF5742
+OCR Result: ASF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[15].png
+Ground Truth: ASF5742
+OCR Result: 742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[16].png
+Ground Truth: ASF5742
+OCR Result: ASF57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[17].png
+Ground Truth: ASF5742
+OCR Result: ASF574221
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[18].png
+Ground Truth: ASF5742
+OCR Result: ASF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[19].png
+Ground Truth: ASF5742
+OCR Result: A5F57447
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[20].png
+Ground Truth: ASF5742
+OCR Result: ASF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[21].png
+Ground Truth: ASF5742
+OCR Result: 424
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[22].png
+Ground Truth: ASF5742
+OCR Result: 57427
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[23].png
+Ground Truth: ASF5742
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[24].png
+Ground Truth: ASF5742
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[25].png
+Ground Truth: ASF5742
+OCR Result: A5F4
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[26].png
+Ground Truth: ASF5742
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[27].png
+Ground Truth: ASF5742
+OCR Result: 57Z
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[28].png
+Ground Truth: ASF5742
+OCR Result: 5F574
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[29].png
+Ground Truth: ASF5742
+OCR Result: SF5742
+
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[30].png
+Ground Truth: ASF5742
+OCR Result: ASF5742
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[01].png
+Ground Truth: CBB1894
+OCR Result: CBB1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[02].png
+Ground Truth: CBB1894
+OCR Result: C8B1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[03].png
+Ground Truth: CBB1894
+OCR Result: CBB1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[04].png
+Ground Truth: CBB1894
+OCR Result: CBB1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[05].png
+Ground Truth: CBB1894
+OCR Result: CBB1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[06].png
+Ground Truth: CBB1894
+OCR Result: B81894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[07].png
+Ground Truth: CBB1894
+OCR Result: C881894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[08].png
+Ground Truth: CBB1894
+OCR Result: CBB1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[09].png
+Ground Truth: CBB1894
+OCR Result: 18941
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[10].png
+Ground Truth: CBB1894
+OCR Result: C881894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[11].png
+Ground Truth: CBB1894
+OCR Result: CB81894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[12].png
+Ground Truth: CBB1894
+OCR Result: CBB18947
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[13].png
+Ground Truth: CBB1894
+OCR Result: C8818947
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[14].png
+Ground Truth: CBB1894
+OCR Result: C8B1894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[15].png
+Ground Truth: CBB1894
+OCR Result: C881894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[16].png
+Ground Truth: CBB1894
+OCR Result: CBB18944
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[17].png
+Ground Truth: CBB1894
+OCR Result: C881894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[18].png
+Ground Truth: CBB1894
+OCR Result: CB81894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[19].png
+Ground Truth: CBB1894
+OCR Result: CB818941
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[20].png
+Ground Truth: CBB1894
+OCR Result: C881694
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[21].png
+Ground Truth: CBB1894
+OCR Result: CB818941
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[22].png
+Ground Truth: CBB1894
+OCR Result: CB818941
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[23].png
+Ground Truth: CBB1894
+OCR Result: C8B18944
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[24].png
+Ground Truth: CBB1894
+OCR Result: 189411
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[25].png
+Ground Truth: CBB1894
+OCR Result: CB81894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[26].png
+Ground Truth: CBB1894
+OCR Result: C8818941
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[27].png
+Ground Truth: CBB1894
+OCR Result: CBB4
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[28].png
+Ground Truth: CBB1894
+OCR Result: C881894
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[29].png
+Ground Truth: CBB1894
+OCR Result: CB4
+
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[30].png
+Ground Truth: CBB1894
+OCR Result: CBR
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[01].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[02].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[03].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[04].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[05].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[06].png
+Ground Truth: PYP1906
+OCR Result: PYP19065
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[07].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[08].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[09].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[10].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[11].png
+Ground Truth: PYP1906
+OCR Result: PYP19057
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[12].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[13].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[14].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[15].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[16].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[17].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[18].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[19].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[20].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[21].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[22].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[23].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[24].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[25].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[26].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[27].png
+Ground Truth: PYP1906
+OCR Result: PYP19061
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[28].png
+Ground Truth: PYP1906
+OCR Result: PYP19064
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[29].png
+Ground Truth: PYP1906
+OCR Result: PYP1906
+
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[30].png
+Ground Truth: PYP1906
+OCR Result: PYP19061
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[01].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[02].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[03].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[04].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[05].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[06].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[07].png
+Ground Truth: AYE1896
+OCR Result: AYE7896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[08].png
+Ground Truth: AYE1896
+OCR Result: AYE10896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[09].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[10].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[11].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[12].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[13].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[14].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[15].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[16].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[17].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[18].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[19].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[20].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[21].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[22].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[23].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[24].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[25].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[26].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[27].png
+Ground Truth: AYE1896
+OCR Result: AYE1896
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[28].png
+Ground Truth: AYE1896
+OCR Result: AYET8964
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[29].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[30].png
+Ground Truth: AYE1896
+OCR Result: AYE
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[01].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[02].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[03].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[04].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[05].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[06].png
+Ground Truth: AWL4456
+OCR Result: AWL44566
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[07].png
+Ground Truth: AWL4456
+OCR Result: 44561
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[08].png
+Ground Truth: AWL4456
+OCR Result: AWL44566
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[09].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[10].png
+Ground Truth: AWL4456
+OCR Result: AWL44566
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[11].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[12].png
+Ground Truth: AWL4456
+OCR Result: AWL44567
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[13].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[14].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[15].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[16].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[17].png
+Ground Truth: AWL4456
+OCR Result: M5
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[18].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[19].png
+Ground Truth: AWL4456
+OCR Result: AN
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[20].png
+Ground Truth: AWL4456
+OCR Result: AWL4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[21].png
+Ground Truth: AWL4456
+OCR Result: AWL4456N
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[22].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[23].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[24].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[25].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[26].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[27].png
+Ground Truth: AWL4456
+OCR Result: AWL
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[28].png
+Ground Truth: AWL4456
+OCR Result: AWL
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[29].png
+Ground Truth: AWL4456
+OCR Result: 4456
+
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[30].png
+Ground Truth: AWL4456
+OCR Result: AWL
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[01].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[02].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[03].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[04].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[05].png
+Ground Truth: IOZ3616
+OCR Result: 10Z3616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[06].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[07].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[08].png
+Ground Truth: IOZ3616
+OCR Result: 10Z3616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[09].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[10].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[11].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[12].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[13].png
+Ground Truth: IOZ3616
+OCR Result: 10Z3616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[14].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[15].png
+Ground Truth: IOZ3616
+OCR Result: 10Z3616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[16].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[17].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[18].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[19].png
+Ground Truth: IOZ3616
+OCR Result: 023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[20].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[21].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[22].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[23].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[24].png
+Ground Truth: IOZ3616
+OCR Result: 10Z36165
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[25].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[26].png
+Ground Truth: IOZ3616
+OCR Result: 1023616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[27].png
+Ground Truth: IOZ3616
+OCR Result: 10Z36161
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[28].png
+Ground Truth: IOZ3616
+OCR Result: 10Z3616
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[29].png
+Ground Truth: IOZ3616
+OCR Result: 10236164
+
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[30].png
+Ground Truth: IOZ3616
+OCR Result: 10236164
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[01].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[02].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[03].png
+Ground Truth: BCJ9595
+OCR Result: 8CJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[04].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[05].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[06].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[07].png
+Ground Truth: BCJ9595
+OCR Result: ECJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[08].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[09].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[10].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[11].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[12].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[13].png
+Ground Truth: BCJ9595
+OCR Result: BCJ959517
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[14].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[15].png
+Ground Truth: BCJ9595
+OCR Result: BCJ495951
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[16].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[17].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[18].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[19].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95954
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[20].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[21].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[22].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9555
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[23].png
+Ground Truth: BCJ9595
+OCR Result: BGJ95995
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[24].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[25].png
+Ground Truth: BCJ9595
+OCR Result: BCJ95955
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[26].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[27].png
+Ground Truth: BCJ9595
+OCR Result: BCJ959514
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[28].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[29].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[30].png
+Ground Truth: BCJ9595
+OCR Result: BCJ9595
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[01].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[02].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[03].png
+Ground Truth: AZU3476
+OCR Result: AZ13476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[04].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[05].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[06].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[07].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[08].png
+Ground Truth: AZU3476
+OCR Result: AZUR34766
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[09].png
+Ground Truth: AZU3476
+OCR Result: A2UP3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[10].png
+Ground Truth: AZU3476
+OCR Result: A213476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[11].png
+Ground Truth: AZU3476
+OCR Result: AZU347
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[12].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[13].png
+Ground Truth: AZU3476
+OCR Result: AZU347
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[14].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[15].png
+Ground Truth: AZU3476
+OCR Result: A2U3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[16].png
+Ground Truth: AZU3476
+OCR Result: AZU43476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[17].png
+Ground Truth: AZU3476
+OCR Result: A2U3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[18].png
+Ground Truth: AZU3476
+OCR Result: AZLP3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[19].png
+Ground Truth: AZU3476
+OCR Result: AZU8476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[20].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[21].png
+Ground Truth: AZU3476
+OCR Result: AZ0947
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[22].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[23].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[24].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[25].png
+Ground Truth: AZU3476
+OCR Result: AZ13476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[26].png
+Ground Truth: AZU3476
+OCR Result: A213476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[27].png
+Ground Truth: AZU3476
+OCR Result: AZU3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[28].png
+Ground Truth: AZU3476
+OCR Result: A213476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[29].png
+Ground Truth: AZU3476
+OCR Result: A2U3476
+
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[30].png
+Ground Truth: AZU3476
+OCR Result: AZ3476
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[01].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[02].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[03].png
+Ground Truth: MCA9954
+OCR Result: CA
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[04].png
+Ground Truth: MCA9954
+OCR Result: 994
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[05].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[06].png
+Ground Truth: MCA9954
+OCR Result: CA
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[07].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[08].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[09].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[10].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[11].png
+Ground Truth: MCA9954
+OCR Result: C1T
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[12].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[13].png
+No detections were made.
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[14].png
+Ground Truth: MCA9954
+OCR Result: CT
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[15].png
+Ground Truth: MCA9954
+OCR Result: C1N
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[16].png
+Ground Truth: MCA9954
+OCR Result: CN
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[17].png
+Ground Truth: MCA9954
+OCR Result: C11
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[18].png
+Ground Truth: MCA9954
+OCR Result: CPT
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[19].png
+Ground Truth: MCA9954
+OCR Result: CT
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[20].png
+Ground Truth: MCA9954
+OCR Result: CT
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[21].png
+Ground Truth: MCA9954
+OCR Result: CA
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[22].png
+Ground Truth: MCA9954
+OCR Result: C1N
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[23].png
+Ground Truth: MCA9954
+OCR Result: CT
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[24].png
+Ground Truth: MCA9954
+OCR Result: CL
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[25].png
+Ground Truth: MCA9954
+OCR Result: CLL
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[26].png
+Ground Truth: MCA9954
+OCR Result: 9954
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[27].png
+Ground Truth: MCA9954
+OCR Result: C1L
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[28].png
+Ground Truth: MCA9954
+OCR Result: LC
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[29].png
+Ground Truth: MCA9954
+OCR Result: C11
+
+Image: dataset/UFPR-ALPR/testing\track0122\track0122[30].png
+Ground Truth: MCA9954
+OCR Result: C
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[01].png
+Ground Truth: ASG9143
+OCR Result: 4G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[02].png
+Ground Truth: ASG9143
+OCR Result: A
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[03].png
+Ground Truth: ASG9143
+OCR Result: G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[04].png
+Ground Truth: ASG9143
+OCR Result: Q
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[05].png
+Ground Truth: ASG9143
+OCR Result: Q4
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[06].png
+Ground Truth: ASG9143
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[07].png
+Ground Truth: ASG9143
+OCR Result: SQ
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[08].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[09].png
+Ground Truth: ASG9143
+OCR Result: 61
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[10].png
+Ground Truth: ASG9143
+OCR Result: G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[11].png
+Ground Truth: ASG9143
+OCR Result: 
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[12].png
+Ground Truth: ASG9143
+OCR Result: 9
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[13].png
+Ground Truth: ASG9143
+OCR Result: 912G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[14].png
+Ground Truth: ASG9143
+OCR Result: GL
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[15].png
+Ground Truth: ASG9143
+OCR Result: G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[16].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[17].png
+Ground Truth: ASG9143
+OCR Result: S
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[18].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[19].png
+Ground Truth: ASG9143
+OCR Result: G
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[20].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[21].png
+Ground Truth: ASG9143
+OCR Result: 4
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[22].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[23].png
+Ground Truth: ASG9143
+OCR Result: SG
+
+Image: dataset/UFPR-ALPR/testing\track0123\track0123[24].png
+Ground Truth: ASG9143
+OCR Result: PC
+

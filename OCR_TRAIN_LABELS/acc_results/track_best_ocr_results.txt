@@ -1,0 +1,160 @@
+Track: track0091
+Image: dataset/UFPR-ALPR/testing\track0091\track0091[03].png
+OCR Result: MLS551 (Probability: 0.6431969183218232)
+
+Track: track0092
+Image: dataset/UFPR-ALPR/testing\track0092\track0092[06].png
+OCR Result: AQY6388 (Probability: 0.8775320483272521)
+
+Track: track0093
+Image: dataset/UFPR-ALPR/testing\track0093\track0093[15].png
+OCR Result: AZZ6958 (Probability: 0.7823543965680956)
+
+Track: track0094
+Image: dataset/UFPR-ALPR/testing\track0094\track0094[20].png
+OCR Result: AUY8870 (Probability: 0.7792691517450128)
+
+Track: track0095
+Image: dataset/UFPR-ALPR/testing\track0095\track0095[22].png
+OCR Result: UV2214 (Probability: 0.27225648268228864)
+
+Track: track0096
+Image: dataset/UFPR-ALPR/testing\track0096\track0096[17].png
+OCR Result: AUX9307 (Probability: 0.8073365380946884)
+
+Track: track0097
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0098
+Image: dataset/UFPR-ALPR/testing\track0098\track0098[14].png
+OCR Result: MADERO (Probability: 0.9997622554084038)
+
+Track: track0099
+Image: dataset/UFPR-ALPR/testing\track0099\track0099[13].png
+OCR Result: APE4685 (Probability: 0.6851011736412278)
+
+Track: track0100
+Image: dataset/UFPR-ALPR/testing\track0100\track0100[28].png
+OCR Result: ISK7006 (Probability: 0.5751804974987622)
+
+Track: track0101
+Image: dataset/UFPR-ALPR/testing\track0101\track0101[28].png
+OCR Result: MR2199] (Probability: 0.7328741139275067)
+
+Track: track0102
+Image: dataset/UFPR-ALPR/testing\track0102\track0102[12].png
+OCR Result: AHB1909 (Probability: 0.6978806708865546)
+
+Track: track0103
+Image: dataset/UFPR-ALPR/testing\track0103\track0103[23].png
+OCR Result: BCS4525 (Probability: 0.9706598220257493)
+
+Track: track0104
+Image: dataset/UFPR-ALPR/testing\track0104\track0104[23].png
+OCR Result: QPL0I0O (Probability: 0.4004963516379854)
+
+Track: track0105
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0106
+Image: dataset/UFPR-ALPR/testing\track0106\track0106[28].png
+OCR Result: ABN8528 (Probability: 0.986682786298489)
+
+Track: track0107
+Image: dataset/UFPR-ALPR/testing\track0107\track0107[27].png
+OCR Result: MJO0862 (Probability: 0.9102898214660082)
+
+Track: track0108
+Image: dataset/UFPR-ALPR/testing\track0108\track0108[06].png
+OCR Result: ARY9308 (Probability: 0.9120470690472345)
+
+Track: track0109
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0110
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0111
+Image: dataset/UFPR-ALPR/testing\track0111\track0111[25].png
+OCR Result: 0.1056 (Probability: 0.5569917814753956)
+
+Track: track0112
+Image: dataset/UFPR-ALPR/testing\track0112\track0112[11].png
+OCR Result: AP4389 (Probability: 0.4879920766342132)
+
+Track: track0113
+Image: dataset/UFPR-ALPR/testing\track0113\track0113[02].png
+OCR Result: PNC3858 (Probability: 0.6283881355698694)
+
+Track: track0114
+Image: dataset/UFPR-ALPR/testing\track0114\track0114[15].png
+OCR Result: AS;5743 (Probability: 0.2827179957916038)
+
+Track: track0115
+Image: dataset/UFPR-ALPR/testing\track0115\track0115[15].png
+OCR Result: C9B1894 (Probability: 0.8142517575170138)
+
+Track: track0116
+Image: dataset/UFPR-ALPR/testing\track0116\track0116[05].png
+OCR Result: PYP4906 (Probability: 0.7113804868623498)
+
+Track: track0117
+Image: dataset/UFPR-ALPR/testing\track0117\track0117[26].png
+OCR Result: AYE1896 (Probability: 0.9420490120253951)
+
+Track: track0118
+Image: dataset/UFPR-ALPR/testing\track0118\track0118[01].png
+OCR Result: AML4456 (Probability: 0.49910404504437655)
+
+Track: track0119
+Image: dataset/UFPR-ALPR/testing\track0119\track0119[05].png
+OCR Result: 10Z3616 (Probability: 0.9111680061830648)
+
+Track: track0120
+Image: dataset/UFPR-ALPR/testing\track0120\track0120[27].png
+OCR Result: BCJ9595 (Probability: 0.7546480970125061)
+
+Track: track0121
+Image: dataset/UFPR-ALPR/testing\track0121\track0121[06].png
+OCR Result: AZU3476 (Probability: 0.6404474516364169)
+
+Track: track0122
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0123
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0124
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0125
+Image: dataset/UFPR-ALPR/testing\track0125\track0125[04].png
+OCR Result: AYB1489 (Probability: 0.7315807803406061)
+
+Track: track0126
+Image: dataset/UFPR-ALPR/testing\track0126\track0126[30].png
+OCR Result: 909491 (Probability: 0.268734091357805)
+
+Track: track0127
+Image: 
+OCR Result:  (Probability: 0)
+
+Track: track0128
+Image: dataset/UFPR-ALPR/testing\track0128\track0128[22].png
+OCR Result: HPDBIS (Probability: 0.029822566363688737)
+
+Track: track0129
+Image: dataset/UFPR-ALPR/testing\track0129\track0129[29].png
+OCR Result: MAK0198 (Probability: 0.9980950535510844)
+
+Track: track0130
+Image: 
+OCR Result:  (Probability: 0)
+

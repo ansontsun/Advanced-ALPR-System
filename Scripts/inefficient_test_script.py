@@ -7,19 +7,20 @@ import easyocr
 import numpy as np
 
 # Initialize YOLOv10 model with weights
-model_path = 'runs/detect/train122/train12/weights/best.pt'
+#model_path = 'runs/detect/train122/train12/weights/best.pt'
+model_path = 'model_weights/best_roboflow.pt'
 model = YOLOv10(model_path)
 
 # Path to the test directory
 test_dir = 'dataset/UFPR-ALPR/testing'
-output_file = 'ocr_results.txt'
+output_file = 'filtered_data_ocr_results.txt'
 
 # Initialize EasyOCR reader
-reader = easyocr.Reader(['en'])  # Use 'en' for English
+reader = easyocr.Reader(['en'],recog_network='best_accuracy')  # Use 'en' for English
 
 # Load pre-trained LapSRN model
 sr = cv2.dnn_superres.DnnSuperResImpl_create()
-sr.readModel("LapSRN_x8.pb")  # Path to the LapSRN model
+sr.readModel("Scripts/unused/LapSRN_x8.pb")  # Path to the LapSRN model
 sr.setModel("lapsrn", 8)  # Choose the model and scale factor
 
 with open(output_file, 'w', encoding='utf-8') as f:
