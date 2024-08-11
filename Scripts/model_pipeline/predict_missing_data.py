@@ -1,3 +1,5 @@
+# Adapted from https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8/tree/main
+# Helper function for interpolate missing frame
 import csv
 import numpy as np
 from scipy.interpolate import interp1d
