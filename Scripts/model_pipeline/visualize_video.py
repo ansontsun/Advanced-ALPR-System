@@ -1,3 +1,6 @@
+# Adapted from https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8/tree/main
+# Helper function for complex visualization
+
 import ast
 import cv2
 import numpy as np
