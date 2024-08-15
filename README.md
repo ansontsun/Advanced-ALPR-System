@@ -7,7 +7,7 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - Achieves mAP50-95 score of 75 for license plate detection.
 - Character recognition accuracy of 95.37% under controlled conditions.
 
-[![Watch the video](https://img.youtube.com/vi/V6HDNpW6_80/2.jpg)](https://www.youtube.com/watch?v=V6HDNpW6_80)
+[![Watch the video](https://img.youtube.com/vi/V6HDNpW6_80/0.jpg)](https://www.youtube.com/watch?v=V6HDNpW6_80)
 
 ## Features
 - Real-time detection and recognition of license plates from video feeds.
