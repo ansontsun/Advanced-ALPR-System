@@ -8,7 +8,7 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - Character recognition accuracy of 95.37% under controlled conditions.
 
 <p align="center">
-<a href="[https://www.youtube.com/watch?v=fyJB1t0o0ms](https://www.youtube.com/watch?v=V6HDNpW6_80)">
+<a href="https://www.youtube.com/watch?v=V6HDNpW6_80">
     <img width="600" src="https://img.youtube.com/vi/V6HDNpW6_80/0.jpg" alt="Watch the video">
     </br>Watch on YouTube: Automatic number plate recognition with Yolov10, SORT and EasyOCR!
 </a>
