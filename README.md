@@ -3,6 +3,12 @@
 ## Overview
 This project develops an advanced Automated License Plate Recognition (ALPR) system using deep learning techniques to efficiently and accurately detect and interpret vehicle license plates in real-time. The system is designed to work under various environmental conditions and can be integrated into modern traffic management solutions.
 
+## Performance Metrics
+- Achieves mAP50-95 score of 75 for license plate detection.
+- Character recognition accuracy of 95.37% under controlled conditions.
+- 
+[![Watch the video](https://img.youtube.com/vi/V6HDNpW6_80/0.jpg)](https://www.youtube.com/watch?v=V6HDNpW6_80)
+
 ## Features
 - Real-time detection and recognition of license plates from video feeds.
 - High accuracy under different lighting and weather conditions.
@@ -13,10 +19,6 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - **Object Detection**: Utilized [YOLOv10](https://github.com/THU-MIG/yolov10) and [YOLOv8](https://github.com/ultralytics/ultralytics) for vehicle and license plate detection.
 - **OCR Technology**: [EasyOCR](https://github.com/JaidedAI/EasyOCR) for text recognition from license plates.
 - **Image/Video** Processing: OpenCV
-
-## Performance Metrics
-- Achieves 75% mAP50-95 for plate detection.
-- Character recognition accuracy of 92% under controlled conditions.
 
 ## Contributors
 - [David](www.linkedin.com/in/david-huang-7a8aba296) : Project Leader
