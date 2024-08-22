@@ -27,8 +27,8 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 
 ## Contributors
 - [David](www.linkedin.com/in/david-huang-7a8aba296) : Project Leader
-- [Edward] www.linkedin.com/in/edward-liu-055438262 : Data Engineer and Model Architect
-- [Anson](#GitHub/LinkedIn profile link)
+- [Edward](www.linkedin.com/in/edward-liu-055438262) : Data Engineer and Model Architect
+- [Anson]
 - [Addison]https://github.com/Addisonmeng
 
 ## Installation
