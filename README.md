@@ -26,10 +26,10 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - **Image/Video** Processing: OpenCV
 
 ## Contributors
-- [David](www.linkedin.com/in/david-huang-7a8aba296) : Project Leader
-- [Edward](www.linkedin.com/in/edward-liu-055438262) : Data Engineer and Model Architect
-- [Anson]
-- [Addison](https://github.com/Addisonmeng)
+- [David Huang](www.linkedin.com/in/davidhuang-) : Project Leader
+- [Edward Liu](www.linkedin.com/in/edward-liu-055438262) : Data Engineer and Model Architect
+- Anson Sun
+- [Addison Meng](https://github.com/Addisonmeng)
 
 ## Installation
 Instructions for setting up the ALPR system are provided below:
