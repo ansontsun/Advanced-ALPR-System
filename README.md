@@ -17,7 +17,7 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 ## Features
 - Real-time detection and recognition of license plates from video feeds.
 - High accuracy under different lighting and weather conditions.
-- (API for easy integration into existing traffic management systems.) can be considered
+- API for easy integration into existing traffic management systems will be considered.
 
 ## Technologies
 - Deep Learning: PyTorch, TensorFlow,
@@ -26,7 +26,7 @@ This project develops an advanced Automated License Plate Recognition (ALPR) sys
 - **Image/Video** Processing: OpenCV
 
 ## Contributors
-- [David Huang](www.linkedin.com/in/davidhuang-) : Project Leader
+- [David Huang](www.linkedin.com/in/davidhuang-) : Project Leader and ML Engineer
 - [Edward Liu](www.linkedin.com/in/edward-liu-055438262) : Data Engineer and Model Architect
 - Anson Sun
 - [Addison Meng](https://github.com/Addisonmeng)
